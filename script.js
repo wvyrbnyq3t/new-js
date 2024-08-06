@@ -1,1 +1,3 @@
-console.log('完了')
+$('#js-btn').click(function(){
+  console.log('Clicked!')
+})
