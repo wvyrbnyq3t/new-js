@@ -1,1 +1,1 @@
-alert('完了')
+console.log('完了')
